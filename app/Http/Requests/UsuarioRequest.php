@@ -28,7 +28,7 @@ class UsuarioRequest extends FormRequest
             'nombres' => 'required|max:255',
             'email' => 'required|unique:usuarios|max:255',
             'password' => 'min:8',
-           
+            'id' => 'required',
             'apellido' => 'required|max:255',
             'telefono' => 'required|numeric',
             'ocupacion' => 'required|max:255',

@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Thu Aug 12 2021 11:38:39 GMT-0500 (hora estándar de Colombia)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-12-7-2021-11-8-22.txt
+
+
+Deleted files:
+
+
+Renamed files:
